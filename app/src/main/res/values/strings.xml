@@ -1,7 +1,8 @@
-<resources>
-    <string name="app_name">HelloAndroid</string>
-    <string name="udacity">Udacity</string>
-    <string name="www_udacity_com">www.udacity.com</string>
-    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://www.udacity.com\",\n  }\n}]</string>
-    <string name="www_udacity_com">www.udacity.com</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">HelloAndroid</string>
+    <string name="udacity" translatable="false">Udacity</string>
+    <string name="www_udacity_com"></string>
+    <string name="edit_message">Edit</string>
+    <string name="button_send">Send</string>
+    <string name="asset_statements">asset_statements</string>
 </resources>
