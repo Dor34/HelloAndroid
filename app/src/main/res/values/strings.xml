@@ -4,5 +4,10 @@
     <string name="www_udacity_com"></string>
     <string name="edit_message">Edit</string>
     <string name="button_send">Send</string>
-    <string name="asset_statements">asset_statements</string>
+    <string name="asset_statements">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://www.udacity.com\",\n  }\n}]</string>
+    <string name="address">2465 Latham St</string>
+    <string name="location">Mountain View,CA 94043</string>
+    <string name="phone_number">650-555-5555</string>
+    <string name="website">www.udacity.com</string>
+    <string name="company_name">Udacity</string>
 </resources>
